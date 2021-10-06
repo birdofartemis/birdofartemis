@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @birdofartemis
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning Java and C, in future Scala
+- 🌱 I’m currently learning Java and TS, in future Scala
 - 💞️ I’m looking to collaborate on BackEnd
 - 📫 How to reach me marcomedeiros_03@outlook.com
 
